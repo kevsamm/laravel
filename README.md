@@ -1,2 +1,2 @@
-# laravel
+# Laravel
 Playing Laravel
